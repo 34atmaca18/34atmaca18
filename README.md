@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aydoğan Uyanıkoğlu</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **react,spring**
+- 🌱 I’m currently learning **nextjs**
 
-- 💬 Ask me about **react,tailwindcss,spring**
+- 💬 Ask me about **react,nextjs,js,sass,tailwindcss,css**
 
 - 📫 How to reach me **aydogan.u18@gmail.com**
 
